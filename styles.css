@@ -1,0 +1,42 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+header {
+    position: sticky;
+}
+
+#pfp {
+    border-radius: 50%;
+}
+
+a:hover, a:active {
+    color: #1e1e1e;
+    text-decoration: underline;
+}
+
+a, a:link, a:visited {
+    color: #1e1e1e;
+}
+
+#michaelzhao:hover {
+    color: #1e1e1e;
+}
+
+#menu-about:hover {
+    color: #1e1e1e;
+}
+
+#menu-classes:hover {
+    color: #1e1e1e;
+}
+
+#menu-resume:hover {
+    color: #1e1e1e;
+}
+
+#menu-contact:hover {
+    color: #1e1e1e;
+}
+
+header, main, footer {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
